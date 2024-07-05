@@ -5,7 +5,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    {/* <App /> */}
-    <h1> Hellow World </h1>
+    <App />
+    {/* <h1> Hello from Anne </h1> */}
   </React.StrictMode>
 );
